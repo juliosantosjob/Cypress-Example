@@ -18,7 +18,6 @@ describe('Products scenarios', function () {
             cy.get('[class="bf-shelf-item__container"]').first().then(container => {
                 cy.wrap(container).should('contain', pants);
                 cy.wrap(container).contains('Comprar').click();
-
             });
 
             cy.get('.bf-buy__button').click();
