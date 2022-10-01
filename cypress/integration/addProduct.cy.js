@@ -30,7 +30,7 @@ describe('Products scenarios', function () {
         });
     });
 
-    it.only('remove product to cart', function () {
+    it('remove product to cart', function () {
         cy.addToCart('calça');
         cy.get('a[title="remover"]').last().click();
 
