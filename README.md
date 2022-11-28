@@ -10,7 +10,7 @@ NodeJs: https://nodejs.org/en/download/
 
 **Clone the project**
 ``` 
-git clone https://github.com/juliosantosjob/Estrela-Example.git
+git clone https://github.com/juliosantosjob/Cypress-Example.git
 ```
 **Install project dependencies**
 
