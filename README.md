@@ -17,7 +17,7 @@ git clone https://github.com/juliosantosjob/Cypress-Example.git
 ```
 npm install
 ```
-**run the project**
+**Run the project**
 
 ```
 npm run test
